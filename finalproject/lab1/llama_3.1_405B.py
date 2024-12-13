@@ -36,7 +36,7 @@ def run_make():
 # Initialize OpenAI client
 client = OpenAI(
     base_url="https://api.sambanova.ai/v1",
-    api_key="a2dc1040-b9e4-4a09-8e7d-cd020cc0ca3a",
+    api_key="yourapikey",
 )
 
 # Read the C++ code from the files
