@@ -286,7 +286,7 @@
     "\n",
     "client = OpenAI(\n",
     "    base_url=\"https://openrouter.ai/api/v1\",\n",
-    "    api_key=\"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\",\n",
+    "    api_key=\"yourapikey",\n",
     ")\n",
     "\n",
     "# Model name\n",
