@@ -3,7 +3,7 @@ import os
 import subprocess
 
 # Configure the Google Generative AI API
-api_key = 'AIzaSyCBvgGAav5RbTUVYK4w_wS04vueP5nX3Ok'
+api_key = 'yourapikey'
 genai.configure(api_key=api_key)
 
 # Function to read content from a .txt file
